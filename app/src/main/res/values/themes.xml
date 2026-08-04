@@ -9,7 +9,6 @@
         <item name="colorOnSecondary">@color/toolbar_bg</item>
         <item name="colorSurface">@color/colorSurface</item>
         <item name="colorOnSurface">@color/concrete_900</item>
-        <item name="colorBackground">@color/colorBackground</item>
         <item name="colorOnBackground">@color/concrete_900</item>
         <item name="android:statusBarColor">@color/toolbar_bg</item>
         <item name="android:windowBackground">@color/colorBackground</item>
@@ -92,7 +91,6 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginHorizontal">16dp</item>
-        <item name="cardBackgroundColor">@color/colorSurface</item>
         <item name="cardCornerRadius">16dp</item>
         <item name="cardElevation">1dp</item>
     </style>
