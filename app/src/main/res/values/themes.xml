@@ -9,6 +9,7 @@
         <item name="colorOnSecondary">@color/toolbar_bg</item>
         <item name="colorSurface">@color/colorSurface</item>
         <item name="colorOnSurface">@color/concrete_900</item>
+        <item name="colorBackground">@color/colorBackground</item>
         <item name="colorOnBackground">@color/concrete_900</item>
         <item name="android:statusBarColor">@color/toolbar_bg</item>
         <item name="android:windowBackground">@color/colorBackground</item>
